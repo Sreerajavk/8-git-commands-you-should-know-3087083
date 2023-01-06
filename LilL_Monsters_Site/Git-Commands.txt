@@ -1,2 +1,4 @@
 # Revert the commit
 git reset --soft HEAD~1  --> we can go back any previous commits
+# Stash the changes
+git stash
